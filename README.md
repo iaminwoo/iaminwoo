@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=8d021f)
+![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=8d021f&text=Inwoo's%20Github&fontAlignY=100&fontSize=50&descAlignY=51)
 
 ## Hi there 👋
 
